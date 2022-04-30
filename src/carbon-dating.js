@@ -1,3 +1,4 @@
+// @ts-nocheck
 const { NotImplementedError } = require('../extensions/index.js');
 
 const MODERN_ACTIVITY = 15;
